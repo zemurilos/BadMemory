@@ -1,2 +1,2 @@
 # BadMemory
-Just a repository to remember some important thigns
+Just a repository to remember some important things
